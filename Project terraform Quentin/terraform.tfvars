@@ -1,0 +1,10 @@
+aws_secret_key = "tsZlKokxTPTywKSTZb2WVziSgvNUxiik1YjL3AOu"
+aws_access_key = "ASIAWIHYOV4RH7IL3Z5N"
+aws_token = "FwoGZXIvYXdzEPD//////////wEaDPATThzivbYx1Ph6PiLAAQS+XS6VMKG1zKBSUAKZVgl+zhZM2flEXaG9vKmLfPuaUSeqi0vJRlZt0gYIWrWpxNUW6g4FmHtUFijYY1x6hj7OBF2tbG10agRp9wlGp/wsw9c8w0ExDqmGN3FXaXgZclT5f+HOIJ90YmszoDdHIcqikL5+OYRbB0g/790ykYmeKeG7/mN13AhNj4k7E4IJ1yspPwTvS54ZVtpYjf3g0F7mxWB2DFUVrv1aY49aR+X1qHc09N1Tge6VD1aZJiYH7SiwgPKcBjItJ6LDq6HppjO1bzSjmE9XPFxFBBU1Q7b8WDXbEpi7xS92Bfi/30GFPN2Ie5a9"
+public_ssh_key_name = "public_key"
+aws_sg_name = "sg_name"
+aws_ec2_ami = "ami-0574da719dca65348"
+aws_instance_type = "t2.micro"
+aws_instance_name = "vm_1"
+aws_instance_name2 = "vm_2"
+aws_port = 22
